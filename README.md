@@ -10,4 +10,4 @@
 
 ## Tests
 
-    ./manage.py test
+    tox 
